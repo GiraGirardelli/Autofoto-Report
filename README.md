@@ -69,6 +69,7 @@ Para distribuir o software sem precisar instalar Python em outras máquinas, uti
 
 ```bash
 pyinstaller --onefile --windowed --name="AutoFotoReport" --hidden-import="editortkinter" --hidden-import="PIL.ImageEnhance" --hidden-import="tkinter.scrolledtext" --hidden-import="cv2" --hidden-import="numpy" --hidden-import="docx" --hidden-import="docx2pdf" launcher.py
+```
 
 O arquivo .exe será criado na pasta dist.
 
