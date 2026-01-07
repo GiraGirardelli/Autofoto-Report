@@ -42,6 +42,7 @@ Abra o terminal na pasta do projeto e execute:
 
 ```bash
 pip install opencv-python numpy python-docx Pillow ttkbootstrap docx2pdf
+```
 
 ## 📖 Como Usar
 
